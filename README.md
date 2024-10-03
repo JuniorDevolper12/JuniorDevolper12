@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shahzaib Khan From 🇵🇰</h1>
-<h3 align="center">A passionate Mobile app Devolper From Pakistan</h3>
+<h3 align="center">A passionate Mobile app Developer From Pakistan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=juniordevolper&label=Profile%20views&color=0e75b6&style=flat" alt="juniordevolper" /> </p>
 
